@@ -1,7 +1,6 @@
 {
-  "version": "v17.0 Raiden EI",
-  "versionCode": 1700,
-  "zipUrl": "https://github.com/mnabilirzaprawira-ops/Module-File-Hare/releases/download/Module/Magic_Random-Pro-V17.Raiden.EI.zip",
-  "changelog": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/JSON-V17/refs/heads/main/changelog.md",
-  "banner": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/All-Banner/refs/heads/main/MRPM.png"
+  "version": "v18.0 Fontaine Hydro",
+  "versionCode": 1800,
+  "zipUrl": "https://github.com/mnabilirzaprawira-ops/Module-File-Hare/releases/download/Module/Magic_Random-Pro-V18.Fontaine.zip",
+  "changelog": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/JSON-V18/refs/heads/main/changelog.md"
 }
